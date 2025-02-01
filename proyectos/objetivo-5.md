@@ -41,6 +41,6 @@
 | <!-- Enlace de eigenric -->                                                     |         |           |
 | <!-- Enlace de enger2003 -->                                                    |         |           |
 | <!-- Enlace de wickeet -->                                                      |         |           |
-| [Enlace de ChinChainis](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/37)    | v0.5.4  |           |
+| [Enlace de ChinChainis](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/37)    | v0.5.5  |           |
 | <!-- Enlace de anavaln -->                                                      |         |           |
 | <!-- Enlace de pablotl0 -->                                                     |         |           |
